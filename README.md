@@ -82,7 +82,8 @@ plt.show()
 
 ### Results
 
-![Likelihood of Skills Requested in the US Job Postings](<img width="622" height="472" alt="Likelihood_of_Skills_Requested_in_US_Job_Postings" src="https://github.com/user-attachments/assets/7b1d28d3-6cdb-4aec-a4a5-f78e6b0302a1" />)
+![Likelihood of Skills Requested in the US Job Postings]
+<img width="622" height="472" alt="Likelihood_of_Skills_Requested_in_US_Job_Postings" src="https://github.com/user-attachments/assets/7b1d28d3-6cdb-4aec-a4a5-f78e6b0302a1" />
 
 
 *Bar graph visualizing the salary for the top 3 data roles and their top 5 skills associated with each.*
